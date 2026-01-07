@@ -44,7 +44,7 @@ Please inspect the import statements in the Jupyter notebooks to identify all de
 
 ## Data
 
-The primary dataset is `data/datasets/cleaned_reviews.csv`, which is derived from a [restaurant-review-dataset](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews) from Kaggle. It contains reviews that have been preprocessed for the evaluation tasks. The `prompt_bank.csv` contains the prompts that are used to query the LLMs.
+The primary dataset is `data/datasets/cleaned_reviews.csv`, which is derived from [restaurant-review-dataset](https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews) from Kaggle. It contains reviews that have been preprocessed for the evaluation tasks. The `prompt_bank.csv` contains the prompts that are used to query the LLMs.
 
 ## Models Evaluated
 
